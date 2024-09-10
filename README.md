@@ -1,4 +1,4 @@
-👋 Hi, I’m @DaryaAndreyuk
+👋 Hi, I’m Darya Andreyuk
 👀 I’m interested in QA Automation for UI and API using Java
 🌱 I’m currently learning the RestAssured framework
 💞️ I’m looking to collaborate on QA Automation projects or open-source testing initiatives
