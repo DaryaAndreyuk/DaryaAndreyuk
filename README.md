@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on QA Automation projects or open-source testing initiatives
 📫 How to reach me: dasha.andreyuk@gmail.com
 😄 Pronouns: she/her
-⚡ Fun fact: I love participating in music quizzes
+⚡ Fun fact: I love participating in music quizes
 
 <!---
 DaryaAndreyuk/DaryaAndreyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
