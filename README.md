@@ -1,4 +1,4 @@
-👋 Hi, I’m Darya Andreyuk
+👋 Hi, I’m Darya Andreyuk living in Wrocław
 👀 I’m interested in QA Automation for UI and API using Java
 🌱 I’m currently learning the RestAssured framework
 💞️ I’m looking for collaboration on QA Automation projects or open-source testing initiatives
