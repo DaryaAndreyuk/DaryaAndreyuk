@@ -1,6 +1,6 @@
 👋 Hi, I’m Darya Andreyuk living in Wrocław, Poland
 👀 I’m interested in QA Automation for UI and API using Java
-🌱 I’m currently learning the RestAssured framework
+🌱 I’m currently learning the rest-assured framework
 💞️ I’m looking for collaboration on QA Automation projects or open-source testing initiatives
 📫 How to reach me: dasha.andreyuk@gmail.com, telegram: @darya_tlgr
 😄 Pronouns: she/her
