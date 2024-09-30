@@ -3,7 +3,7 @@
 🌱 I’m currently learning the rest-assured framework
 💞️ I’m looking for collaboration in QA Automation project
 📫 How to reach me: dasha.andreyuk@gmail.com, telegram: @darya_tlgr
-😄 Pronouns: she/her
+😄 Pronouns: she, her
 ⚡ Fun fact: I love music quizes and creative writing
 
 <!---
