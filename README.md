@@ -7,6 +7,8 @@
 
 Thanks for visiting!
 
+<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png" width="80%">
+
 <!---
 😄 Pronouns: she, her
 ⚡ Fun fact: I love music quizes and creative writing
