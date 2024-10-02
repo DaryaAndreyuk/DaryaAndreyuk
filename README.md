@@ -1,3 +1,5 @@
+<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png">
+
 ### Hi there 👋
 - ✨ I’m Darya Andreyuk living in Wrocław, Poland
 - 👀 I’m interested in QA Automation for UI and API using Java
@@ -6,8 +8,6 @@
 - 📫 How to reach me: dasha.andreyuk@gmail.com, telegram: @darya_tlgr
 
 Thanks for visiting!
-
-<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png" width="80%">
 
 <!---
 😄 Pronouns: she, her
