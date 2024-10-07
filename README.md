@@ -3,7 +3,8 @@
 ### Hi there 👋
 - ✨ I’m Darya Andreyuk living in Wrocław, Poland
 - 👀 I’m interested in QA Automation for UI and API using Java
-- 🌱 I’m currently learning the rest-assured framework
+- 🌱 I’m currently learning the rest-assured framework (see my [API Automaiton framework](https://github.com/DaryaAndreyuk/PetStoreAPITesting))
+- 🌱 I’ve recently completed learning Selenium framework (see my [UI Automation framework](https://github.com/DaryaAndreyuk/music-quiz-automation))
 - 💞️ I’m looking for collaboration in QA Automation project
 - 📫 How to reach me: dasha.andreyuk@gmail.com, telegram: @darya_tlgr
 
