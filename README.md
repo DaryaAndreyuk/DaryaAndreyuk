@@ -1,11 +1,11 @@
-<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png">
+tt<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png">
 
 ### Hi there 👋
 - ✨ I’m Darya Andreyuk living in Wrocław, Poland
 - 👀 I’m interested in QA Automation for UI and API using Java
 - 🌱 I’ve recently completed learning the Rest Assured framework (see my [API Automation framework](https://github.com/DaryaAndreyuk/PetStoreAPITesting))
 - 🌱 I’ve recently completed learning Selenium framework (see my [UI Automation framework](https://github.com/DaryaAndreyuk/music-quiz-automation))
-- 💞️ I’m looking for collaboration in QA Automation project
+- 💞️ I’m looking for collaboration in QA Automation project (UI & API testing)
 - 📫 How to reach me: dasha.andreyuk@gmail.com, telegram:  @darya_tlgr
 
 Thanks for visiting!
