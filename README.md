@@ -1,4 +1,4 @@
-tt<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png">
+<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png">
 
 ### Hi there 👋
 - ✨ I’m Darya Andreyuk living in Wrocław, Poland
