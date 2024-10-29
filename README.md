@@ -12,7 +12,7 @@ Thanks for visiting!
 
 <!---
 😄 Pronouns: she, her
-⚡ Fun fact: I love music quizes and creative writing
+⚡ Fun fact:   I love music quizes and creative writing
 
 <!---
 DaryaAndreyuk/DaryaAndreyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
