@@ -5,8 +5,7 @@
 - 👀 I’m interested in QA Automation for Web and API using Java     
 - 🌱 I’ve completed learning Rest Assured framework (see my [API Automation framework](https://github.com/DaryaAndreyuk/PetStoreAPITesting))
 - 🌱 I’ve completed learning Selenium framework (see my [UI Automation framework](https://github.com/DaryaAndreyuk/music-quiz-automation))
-- 🌱 Now I'm learning Playwright, Postman and Newman 
-- 💞️ I’m looking for collaboration in QA Automation project (Web & API testing)  
+- 🌱 Now I'm learning Playwright, Postman and Newman  
 - 📫 How to reach me: dasha.andreyuk@gmail.com, linkedin: [LinkedIn Profile](https://www.linkedin.com/in/darya-andreyuk/)
 
 Thanks for visiting!
